@@ -1,0 +1,16 @@
+{
+  "name": "com.yh.yhpackages",
+  "version": "0.0.1",
+  "displayName": "YH Packages",
+  "description": "This is an example yh package",
+  "unity": "2020.3.21",
+ "keywords": [
+    "yh",
+    "YH"
+  ],
+  "author": {
+    "name": "YH",
+    "email": "1531245979@qq.com",
+    "url": "https://www.unity3d.com"
+  }
+}
