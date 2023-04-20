@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "displayName": "YH Packages",
   "description": "This is an example yh package",
-  "unity": "2020.3.21",
+  "unity": "2019.1",
  "keywords": [
     "yh",
     "YH"
