@@ -19,6 +19,7 @@ public class DebugTools : MonoBehaviour
     public static void MDebug(string str)
     {
 		//ce shi
+		//测试
         Debug.Log(str);
     }
 }
